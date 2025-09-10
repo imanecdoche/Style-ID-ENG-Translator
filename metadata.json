@@ -1,0 +1,5 @@
+{
+  "name": "Penerjemah Gaya",
+  "description": "An application to translate Indonesian to English in various styles like formal, slang, and custom user-defined styles using the Gemini API.",
+  "requestFramePermissions": []
+}
